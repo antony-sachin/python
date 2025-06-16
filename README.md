@@ -88,10 +88,7 @@ Player's and computer's moves appear as 'X' and 'O'
 Pop-up alerts declare game result and restart the game
 
 📂 File Structure
-plaintext
-Copy
-Edit
-├── imdb_top_1000.csv        # Required dataset for Movie Recommender
-├── movie_recommender.py     # Contains full movie recommendation GUI logic
-├── tic_tac_toe_minimax.py   # Contains full AI-based Tic-Tac-Toe game logic
-├── README.md                # This file
+
+1) imdb_top_1000.csv        # Required dataset for Movie Recommender
+2) movie_recommender.py     # Contains full movie recommendation GUI logic
+3)tic_tac_toe_minimax.py   # Contains full AI-based Tic-Tac-Toe game logic
